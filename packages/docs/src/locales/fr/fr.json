@@ -2674,11 +2674,11 @@
     }
   },
   "roadmap": {
-    "title": "Vuestic UI Roadmap",
-    "description": "Our team is constantly improving the existing code base and adding new features that help make building applications even easier.",
+    "title": "Roadmap Vuestic UI",
+    "description": "Notre équipe améliore constamment le code existant et ajoute de nouvelles fonctionnalités qui rendent le développement d'application encore plus facile.",
     "inDevelopment": {
-      "title": "In development",
-      "description": "The following releases are currently being developed:"
+      "title": "En développement",
+      "description": "Les releases suivantes sont actuellement en développement :"
     },
     "1-1": {
       "title": "v1.1",
@@ -2741,22 +2741,22 @@
     }
   },
   "browserSupport": {
-    "title": "Browser Support",
+    "title": "Compatibilité navigateur",
     "description": "We design Vuestic UI to be future proof. That's why we support modern browsers, but some old browsers, such as IE had to go, sorry. That decision was influenced by [dropped support in Vue 3](https://github.com/vuejs/rfcs/discussions/296) and [falling usage rate](https://caniuse.com/usage-table).",
     "table": {
-      "browser": "Browser",
-      "supported": "Supported"
+      "browser": "Navigateur",
+      "supported": "Supporté"
     }
   },
   "overview": {
-    "title": "What is Vuestic UI",
-    "description": "We’ve designed the framework in such a way that it satisfies the most sophisticated design fantasies and allows you to implement them",
-    "featuresOverview": "Features overview",
-    "vueThreeCompatible": "- Fully **Vue.js 3 compatible**",
-    "featureRich": "- Contains a **50+ feature rich components** that can be used in any design solution",
-    "configurable": "- Allows **to configure components** components globally via config and css variables",
-    "responsive": "- Fully **responsive** and **supports modern browsers** (no IE11, sorry)",
-    "translatable": "- Integrates seamlessly with **i18n**"
+    "title": "Qu'est-ce que Vuestic UI",
+    "description": "Nous avons prévu le framework de telle sorte qu'il s'intègre avec les designs les plus sophistiqués et fantaisistes, et vous permette de les implémenter",
+    "featuresOverview": "Aperçu des fonctionnalités",
+    "vueThreeCompatible": "- Complètement **compatible avec Vue.js 3**",
+    "featureRich": "- Contient **plus de 50 composants complets** intégrables avec tous les designs",
+    "configurable": "- Permet de **configurer globalement les composants** à l'aide de variables css et d'une config globale",
+    "responsive": "- Complètement **responsive** et supporte les **navigateurs modernes** (pas IE11, désolé)",
+    "translatable": "- Inégration transparente de **i18n**"
   },
   "translation": {
     "title": "Translation",
