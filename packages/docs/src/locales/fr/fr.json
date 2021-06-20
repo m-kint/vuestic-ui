@@ -2,19 +2,19 @@
   "landing": {
     "header": {
       "buttons": {
-        "overview": "Overview",
+        "overview": "Aperçu",
         "docs": "Docs",
-        "discord": "Join on Discord",
-        "translation": "Add translation...",
-        "language": "Language",
+        "discord": "Rejoindre sur Discord",
+        "translation": "Ajouter une traduction...",
+        "language": "Langue",
         "star": "Star"
       }
     },
     "preview": {
       "title": "Vue.js 3.0 UI Framework",
       "buttons": {
-        "start": "Get started",
-        "github": "View on GitHub"
+        "start": "Commencer",
+        "github": "Voir sur GitHub"
       },
       "features": {
         "nuxt": {
@@ -22,68 +22,68 @@
           "text": "Nuxt integration guides"
         },
         "components": {
-          "title": "52 Responsive Components",
-          "text": "Available components docs"
+          "title": "52 Composants Responsives",
+          "text": "Docs des composants disponibles"
         },
         "keyboard": {
-          "title": "Keyboard Navigation",
-          "text": "Accessibility guides"
+          "title": "Navigation au clavier",
+          "text": "Guides d'accessibilité"
         },
         "browsers": {
-          "title": "Modern Browsers Support",
-          "text": "Supported browsers list"
+          "title": "Navigateurs Modernes",
+          "text": "Liste des navigateurs compatibles"
         }
       }
     },
     "seamless": {
-      "title": "Seamless Integration",
-      "text": "Use Vuestic UI with other component libraries without any conflicts.",
+      "title": "Intégration Transparente",
+      "text": "Utilisez Vuestic avec d'autres librairies de composants sans aucun conflits.",
       "compare": {
-        "vuestic": "Vuestic UI components",
-        "other": "Other components"
+        "vuestic": "Composants Vuestic UI",
+        "other": "Autres composants"
       }
     },
     "customize": {
-      "title": "Customize Everything",
-      "text": "Make Vuestic UI components match your designs with powerful dynamic configs.",
+      "title": "Complètement personnalisable",
+      "text": "Exploitez la puissance des configurations dynamiques pour que les composants Vuestic UI s'adaptent à vos designs.",
       "tabs": [
         "Large Modern",
         "Styles",
-        "Multiple Themes"
+        "Thèmes multiples"
       ],
-      "copy": "Copied to clipboard",
-      "configuration": "See our configuration guides"
+      "copy": "Copié dans le presse-papier",
+      "configuration": "Voir nos guides de configuration"
     },
     "opensource": {
       "title": "Open Source",
       "text": [
-        "Vuestic UI is forever free and open to contributions. See our",
+        "Vuestic UI sera à jamais gratuit et ouvert aux contributions. Allez voir nos",
         "issues",
-        "contributing guide",
-        "and",
-        "discord server",
-        "to help us improve Vuestic UI experience."
+        "guide de contribution",
+        "et",
+        "serveur Discord",
+        "pour nous aider à améliorer l'expérience Vuestic UI."
       ]
     },
     "admin": {
       "title": "Vuestic Admin",
-      "text": "Check out Vuestic UI Framework in action.",
+      "text": "Voir le framework Vuestic UI en action.",
       "buttons": {
-        "github": "View on GitHub",
-        "demo": "Live Demo",
+        "github": "Voir sur GitHub",
+        "demo": "Démonstration",
         "star": "Star"
       },
       "features": {
-        "opensource": "Open source MIT license",
-        "themes": "Two built-in color schemes",
+        "opensource": "Licence Open Source MIT",
+        "themes": "2 chartes graphiques intégrées",
         "responsive": "Cross-browser & responsive",
-        "i18n": "i18n-ready"
+        "i18n": "Compatible i18n"
       }
     },
     "footer": {
-      "text": "Open source, free to use. Development inquiries:",
+      "text": "Open source, libre d'utilisation. Contact:",
       "buttons": {
-        "epicmax": "About Epicmax",
+        "epicmax": "A propos de Epicmax",
         "admin": "Vuestic Admin",
         "spinners": "Epic Spinners"
       }
